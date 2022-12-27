@@ -28,6 +28,9 @@ module.exports = {
       fontFamily: {
         Bai: ['"Bai Jamjuree"', 'sans-serif'],
       },
+      fontSize: {
+        '3xl': '1.75rem',
+      }
     },
   },
   plugins: [],
