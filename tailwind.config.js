@@ -3,9 +3,6 @@
 module.exports = {
   content: ['./*.{html,js}'],
   theme: {
-    container: {
-      center: true,
-    },
     extend: {
       colors: {
         attribute: '#3e52a3',
